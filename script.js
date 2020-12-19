@@ -28,4 +28,4 @@ const getHtml = (deadLine, mensajeFinal) => {
         }
     }, 1000);
 }
-getHtml("Thu Dec 25 2020 00:00:00 GMT-0500", "Feliz Navidad");
+getHtml("Thu Jan 01 2021 00:00:00 GMT-0500", "Feliz Navidad");
